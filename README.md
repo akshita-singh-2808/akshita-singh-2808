@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Akshita
-- 👀 **Data Scientist** | 🤖 Machine Learning Enthusiast | 💼 Future Consultant
-- 🌱 Learning Deep Learning, NLP, and advanced ML techniques
+- 𖦹 Hi, I’m Akshita𓆝 𓆟 𓆞𓆝 𓆟 𓆞
+- 🌊**Data Scientist** | 🤖 Machine Learning Enthusiast | 💼 Future Consultant
+- 🐚 Learning Deep Learning, NLP, and advanced ML techniques
 - 🐳 Mechanical Engineering student at **NIT Allahabad, India**.
-- 💞️ Open to collaboration on innovative projects in robotics, AI, or any tech-driven solutions.
-- PORTFOLIO : https://akshita-singh-2808.github.io/akshita.sql/
+- 🫧 Open to collaboration on innovative projects in robotics, AI, or any tech-driven solutions.
+- 🪼 https://akshita-singh-2808.github.io/akshita.sql/
 
-### 🛠️ Tech Stack
+### °𓇼⋆  Tech Stack 
 
 **Languages:** Python, SQL
 **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib
@@ -13,16 +13,16 @@
 **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Excel
 
 
-### 📫 Let's Connect
+### ˖Let's Connect ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
 
 * 💼 LinkedIn: *https://www.linkedin.com/in/akshita-singh2808/*
 * 📧 Email: *akshita.singh916@gmail.com*
 
 ---
 
-> *"Data tells a story. I enjoy figuring out how to read it."* 📖
+> *"Data tells a story. I enjoy figuring out how to read it."* 𖤓
 
--FUNFACT: I AM ACTUALLY A CAT
+-funfact: I AM ACTUALLY A CAT ⚞^. .^⚟
 
 
 <!---
