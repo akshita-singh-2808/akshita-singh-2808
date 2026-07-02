@@ -1,6 +1,6 @@
 - 𖦹 Hi, I’m Akshita𓆝 𓆟 𓆞𓆝 𓆟 𓆞
 - 🌊**Data Scientist** | 🤖 Machine Learning Enthusiast | 💼 Future Consultant
-- 🐚 Learning Deep Learning, NLP, and advanced ML techniques
+- 🐚 Machine Learning Deep Learning, NLP, and advanced ML techniques
 - 🐳 Mechanical Engineering student at **NIT Allahabad, India**.
 - 🫧 Open to collaboration on innovative projects in robotics, AI, or any tech-driven solutions.
 - 🪼 https://akshita-singh-2808.github.io/akshita.sql/
