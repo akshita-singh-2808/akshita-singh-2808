@@ -3,7 +3,7 @@
 - 🌱 Learning Deep Learning, NLP, and advanced ML techniques
 - 🐳 Mechanical Engineering student at **NIT Allahabad, India**.
 - 💞️ Open to collaboration on innovative projects in robotics, AI, or any tech-driven solutions.
-  PORTFOLIO : https://akshita-singh-2808.github.io/akshita.sql/
+- PORTFOLIO : https://akshita-singh-2808.github.io/akshita.sql/
 
 ### 🛠️ Tech Stack
 
