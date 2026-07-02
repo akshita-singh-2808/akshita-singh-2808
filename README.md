@@ -7,10 +7,10 @@
 
 ### °𓇼⋆  Tech Stack 
 
-**Languages:** Python, SQL
-**Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib
-**Visualization:** Power BI, Tableau, Streamlit
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Excel
+-**Languages:** Python, SQL
+-**Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib
+-**Visualization:** Power BI, Tableau, Streamlit
+-**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Excel
 
 
 ### ˖Let's Connect ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
